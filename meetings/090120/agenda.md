@@ -37,6 +37,6 @@ There's an event hosted by various tech-companies in Solheimsviken on the 16th o
 
 _**Arne**: I'm attending and willing to say a few words at the event -- if anyone wants to join me, please do!_
 
-### Notes
+## Notes
 
 **Arne**: I'm hoping that we can establish as much as possible under this meeting. I'd also like to propose that we keep all documentation in [Git](https://github.com/youngtech-bergen/docs), as we're aiming to be a community of developers/technologists
