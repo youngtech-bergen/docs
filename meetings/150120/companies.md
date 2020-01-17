@@ -1,0 +1,57 @@
+# Companies
+
+This is a list of companies we want to get in touch with to recruit members and talk about potential sponsorships
+
+- Evry/TietoEvry
+- Bouvet
+- Accenture
+- itslearning
+- Rainfall
+- Sonat
+- Sopra Steria
+- Bergen Kommune
+- Experis
+- Siemens
+- Sbanken
+- Equinor
+- Miles
+- Knowit
+- Visolit
+- WA.Works
+- TV2
+- Atea
+- Webstep
+- Keyteq
+- Stacc
+- Apparat
+- Shortcut
+- iMove
+- Horde
+- Tjommi
+- Mjoll
+- Capgemini
+- IBM
+- Nets
+- Ambita
+- Vimond
+- Guilty
+- AlfGundersen
+- Berg Watches
+- ZData
+- Sparebanken Vest
+- Kantega
+- Frende
+- Tryg
+- Telenor
+- BKK
+- Fana Sparebank
+- Bulder Bank
+- Acos
+- UniMicro
+- DIPS
+- Helse Vest
+- NAV
+- Itera
+- Vizrt
+- Fjordkraft
+- Acos
